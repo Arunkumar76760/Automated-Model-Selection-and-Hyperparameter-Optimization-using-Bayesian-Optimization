@@ -7,3 +7,8 @@ This project automates the process of selecting the best hyperparameters for a m
 1. Clone the repository:
    ```bash
    git clone https://github.com/arun-kumar/Automated-Model-Selection-Bayesian-Optimization.git
+
+## Usage
+To run the optimization script, execute:
+```bash
+python main.py
